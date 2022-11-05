@@ -1,0 +1,17 @@
+.age-part{
+  display:flex;
+  flex-direction:row;
+  margin-right:10vw
+}
+.main-container{
+  display:flex;
+  flex-direction:row;
+}
+.res-div{
+  color:Green;
+  font-size: 30px;
+}
+.category{
+  color:Red;
+  font-size: 30px;
+}
